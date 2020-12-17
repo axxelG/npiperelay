@@ -1,3 +1,4 @@
-# golang.org/x/sys v0.0.0-20200625212154-ddb9806d33ae
+# golang.org/x/sys v0.0.0-20201214210602-f9fddec55a1e
+## explicit
 golang.org/x/sys/internal/unsafeheader
 golang.org/x/sys/windows
